@@ -5,7 +5,7 @@
 
 GoSpel is a small, opinionated toolkit for building Go applications around pure domain logic, explicit effects, and simple data transformations inspired by functional programming.
 
-Extremely portable, uses zero dependencies, completely written by hand.
+Designed with purpose, built on Go's standard library. Light and portable. Written entirely by hand.
 
 ## Examples
 
