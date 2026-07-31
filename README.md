@@ -14,5 +14,5 @@ See more in the [showcase](/docs/README.md).
 ## Installation
 
 ```sh
-go get github.com/owensp/gospel
+go get github.com/owenps/gospel
 ```
